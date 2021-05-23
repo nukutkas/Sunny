@@ -3,7 +3,7 @@
 //  Sunny
 //
 //  Created by Татьяна Кочетова on 28.09.2020.
-//  Copyright © 2020 Ivan Akulov. All rights reserved.
+//  Copyright © 2020 Nikita Kochetov. All rights reserved.
 //
 
 import Foundation
