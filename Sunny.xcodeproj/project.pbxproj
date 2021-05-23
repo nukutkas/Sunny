@@ -18,6 +18,8 @@
 		E55922F5251B6D7D000BEB0D /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = E55922F4251B6D7D000BEB0D /* Constants.swift */; };
 		E55922F72521CE9A000BEB0D /* CurrentWeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E55922F62521CE9A000BEB0D /* CurrentWeatherData.swift */; };
 		E55DEB1A2521ED8A00EF885B /* CurrentWeather.swift in Sources */ = {isa = PBXBuildFile; fileRef = E55DEB192521ED8A00EF885B /* CurrentWeather.swift */; };
+		E581F1FC265A903000C24C32 /* Screenshot02.png in Resources */ = {isa = PBXBuildFile; fileRef = E581F1FA265A903000C24C32 /* Screenshot02.png */; };
+		E581F1FD265A903000C24C32 /* Screenshot01.png in Resources */ = {isa = PBXBuildFile; fileRef = E581F1FB265A903000C24C32 /* Screenshot01.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +36,8 @@
 		E55922F4251B6D7D000BEB0D /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		E55922F62521CE9A000BEB0D /* CurrentWeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeatherData.swift; sourceTree = "<group>"; };
 		E55DEB192521ED8A00EF885B /* CurrentWeather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeather.swift; sourceTree = "<group>"; };
+		E581F1FA265A903000C24C32 /* Screenshot02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot02.png; sourceTree = "<group>"; };
+		E581F1FB265A903000C24C32 /* Screenshot01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot01.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +75,7 @@
 				352AD276240404B800FE672A /* Models */,
 				352AD275240404A600FE672A /* View Controllers */,
 				352AD2742404048C00FE672A /* Supporting files */,
+				E581F1F9265A8E8700C24C32 /* Screenshots */,
 			);
 			path = Sunny;
 			sourceTree = "<group>";
@@ -120,6 +125,15 @@
 				352AD27A2404DD6600FE672A /* ViewController+alertController.swift */,
 			);
 			path = Extensions;
+			sourceTree = "<group>";
+		};
+		E581F1F9265A8E8700C24C32 /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				E581F1FB265A903000C24C32 /* Screenshot01.png */,
+				E581F1FA265A903000C24C32 /* Screenshot02.png */,
+			);
+			path = Screenshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -183,6 +197,8 @@
 				352AD26D2403FA5800FE672A /* LaunchScreen.storyboard in Resources */,
 				352AD26A2403FA5800FE672A /* Assets.xcassets in Resources */,
 				352AD2682403FA5700FE672A /* Main.storyboard in Resources */,
+				E581F1FD265A903000C24C32 /* Screenshot01.png in Resources */,
+				E581F1FC265A903000C24C32 /* Screenshot02.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
