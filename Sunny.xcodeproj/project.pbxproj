@@ -20,6 +20,7 @@
 		E55DEB1A2521ED8A00EF885B /* CurrentWeather.swift in Sources */ = {isa = PBXBuildFile; fileRef = E55DEB192521ED8A00EF885B /* CurrentWeather.swift */; };
 		E581F1FC265A903000C24C32 /* Screenshot02.png in Resources */ = {isa = PBXBuildFile; fileRef = E581F1FA265A903000C24C32 /* Screenshot02.png */; };
 		E581F1FD265A903000C24C32 /* Screenshot01.png in Resources */ = {isa = PBXBuildFile; fileRef = E581F1FB265A903000C24C32 /* Screenshot01.png */; };
+		E5B9674B265C401100309454 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E5B9674A265C401100309454 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		E55DEB192521ED8A00EF885B /* CurrentWeather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeather.swift; sourceTree = "<group>"; };
 		E581F1FA265A903000C24C32 /* Screenshot02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot02.png; sourceTree = "<group>"; };
 		E581F1FB265A903000C24C32 /* Screenshot01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screenshot01.png; sourceTree = "<group>"; };
+		E5B9674A265C401100309454 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				352AD25F2403FA5700FE672A /* Sunny */,
+				E5B9674A265C401100309454 /* README.md */,
 				352AD25E2403FA5700FE672A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -194,6 +197,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E5B9674B265C401100309454 /* README.md in Resources */,
 				352AD26D2403FA5800FE672A /* LaunchScreen.storyboard in Resources */,
 				352AD26A2403FA5800FE672A /* Assets.xcassets in Resources */,
 				352AD2682403FA5700FE672A /* Main.storyboard in Resources */,
