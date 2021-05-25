@@ -1,6 +1,6 @@
 # Sunny
 
-Weather app for testing Parsing JSON.
+Weather app for practice Parsing JSON.
 
 # Installation
 
